@@ -11,12 +11,6 @@ Profile README
   Backend-oriented developer • Interested in system design, operations, and problem solving
 </p>
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge"></a>
-  <a href="https://github.com/Kanghuijun"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-informational?style=for-the-badge"></a>
-</p>
-
-
 
 ## Tech Stack
 **Languages**
@@ -71,4 +65,3 @@ Profile README
 - Email: khj50231@naver.com
 - GitHub: https://github.com/Kanghuijun
 
--->
