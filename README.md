@@ -16,24 +16,17 @@ Profile README
   <a href="https://github.com/Kanghuijun"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-informational?style=for-the-badge"></a>
 </p>
 
----
 
-## About
-- I build web services with a focus on **clean architecture, reliability, and maintainability**.
-- I enjoy working on **backend business logic**, **API design**, and **operational stability**.
-- Currently learning: **cloud ops**, **CI/CD**, **observability**, and **secure service 운영**
-
----
 
 ## Tech Stack
 **Languages**
-- JavaScript / TypeScript, SQL, Python, Java
+- JavaScript / TypeScript, HTML, Python, CSS, C, Java
 
 **Backend**
-- NestJS, REST API, Auth (JWT)
+- NestJS
 
 **Frontend**
-- React, Next.js
+- React, Next.js, Tailwind
 
 **DB / Infra**
 - MySQL, PostgreSQL, Docker, Linux, Nginx, AWS
@@ -41,37 +34,41 @@ Profile README
 ---
 
 ## Featured Projects
-> Pin these repositories on your GitHub profile
 
-- **Project A** — Brief one-liner (e.g., delivery group-order service)
-  - Key: API / Auth / DB schema / core business logic
-  - Repo: https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME
+### 🧾 Dutchpay
+> 配達料削減のための共同注文ウェブサービス
 
-- **Project B** — Brief one-liner (e.g., data collection & performance optimization)
-  - Key: concurrency control / rate limit handling / data pipeline
-  - Repo: https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME
-
-- **Project C** — Brief one-liner (e.g., incident response / ops improvement)
-  - Key: log analysis / blocking automation / recovery strategy
-  - Repo: https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME
+- 注文の流れに応じた**ビジネスロジックの設計**
+- DBスキーマ・関係・制約条件設計(FK, UNIQUE, INDEX)
+- JWT 認証・認可(Access/Refresh, Rotation)
+- APIの設計と実装
+- Repo: https://github.com/babgroup/Dutchpay
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide_rank=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
-</p>
+### 🎭 StageBridge
+> 公演情報統合照会サービス
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME" />
-</p>
+- KOPIS 公共API連携およびデータ収集基盤の設計・実装
+- 大規模データ収集処理の最適化（並列処理・同時実行制御）
+- API Rate Limit を考慮したカスタム ConcurrencyLimiter 設計
+- PostgreSQL + TypeORM によるデータベース設計・管理
+- Repo: https://github.com/stagebridge/stagebridge
+
+---
+
+### 🔐 Security & Maintenance Practice
+> 実サービス運用中に発生したセキュリティ異常を受け、ログ分析を基盤とした自動遮断体制を再設計
+
+- 異常兆候の分析：Webサイト改ざん・不正リクエスト／プロセスログの分析
+- 対応戦略の策定：単なる復旧ではなく、再発防止を目的とした防御構造の設計
+- 防御体制の構築：Nginxのレートリミット―Fail2Ban―iptablesを連携させた自動遮断の適用
+- Repo: https://github.com/WhileNotSuccess
 
 ---
 
 ## Contact
-- Email: YOUR_EMAIL
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- Blog: YOUR_BLOG_URL
+- Email: khj50231@naver.com
+- GitHub: https://github.com/Kanghuijun
 
 -->
