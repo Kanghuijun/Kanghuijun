@@ -11,7 +11,7 @@ Profile README
   Backend-oriented developer • Interested in system design, operations, and problem solving
 </p>
 ## 📄 Resume
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20%26%20Download-blue?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1bFBFNWM9D7rxzfWNQWs-Wiifzg5rryOW/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20%26%20Download-blue?style=flat-square&logo=googledrive&logoColor=white)]https://drive.google.com/file/d/1bFBFNWM9D7rxzfWNQWs-Wiifzg5rryOW/view?usp=sharing)
 
 ## Tech Stack
 ### 💬 Language
