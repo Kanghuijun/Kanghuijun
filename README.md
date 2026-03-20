@@ -10,6 +10,8 @@ Profile README
 <p align="center">
   Backend-oriented developer • Interested in system design, operations, and problem solving
 </p>
+## 📄 Resume
+👉 [ポートフォリオ閲覧・ダウンロード](https://drive.google.com/file/d/1bFBFNWM9D7rxzfWNQWs-Wiifzg5rryOW/view?usp=sharing)
 
 
 ## Tech Stack
