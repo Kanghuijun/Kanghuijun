@@ -10,12 +10,12 @@ Profile README
 <p align="center">
   Backend-oriented developer • Interested in system design, operations, and problem solving
 </p>
-## 📄 Resume
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20%26%20Download-blue?style=flat-square&logo=googledrive&logoColor=white)]https://drive.google.com/file/d/1bFBFNWM9D7rxzfWNQWs-Wiifzg5rryOW/view?usp=sharing)
+
 ## 📄 Resume
 <a href="https://drive.google.com/file/d/1bFBFNWM9D7rxzfWNQWs-Wiifzg5rryOW/view?usp=sharing">
   <img src="https://img.shields.io/badge/Portfolio-View%20%26%20Download-blue?style=flat-square&logo=googledrive&logoColor=white" />
 </a>
+
 ## Tech Stack
 ### 💬 Language
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
